@@ -1,0 +1,7 @@
+{
+  "name": "Eternal Sparkle: A Birthday Celebration",
+  "description": "A deeply personalized, interactive birthday experience featuring relationship trivia, a virtual cake cutting ceremony, a curated memory gallery, and AI-powered heartfelt messages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
